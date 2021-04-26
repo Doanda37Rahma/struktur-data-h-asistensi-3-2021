@@ -22,16 +22,11 @@ Berikut representasi lainnya:
 ![BUKTI](https://github.com/Doanda37Rahma/struktur-data-h-asistensi-3-2021/blob/main/img/trie4.png)
 
 ## Aplikasi Trie:
-1. Spell Checker
-
-Di sini trie tidak hanya memudahkan untuk mencari kata dalam kamus, tetapi juga memudahkan dalam membuat algoritme untuk menampilkan kata yang relevan/direkomendasikan.
-
-2. Auto-complete
-
-Sistem auto-complete menyediakan cara simpel untuk mencari kata alternatif atau menyelesaikan suatu kata dari semua kemungkinan keyword.
-
-3. Sejarah Browser
-	
+1. Spell Checker  
+Di sini trie tidak hanya memudahkan untuk mencari kata dalam kamus, tetapi juga memudahkan dalam membuat algoritme untuk menampilkan kata yang relevan/direkomendasikan.  
+2. Auto-complete  
+Sistem auto-complete menyediakan cara simpel untuk mencari kata alternatif atau menyelesaikan suatu kata dari semua kemungkinan keyword.  
+3. Sejarah Browser  
 Trie juga dapat digunakan untuk menyimpan URL setiap website yang dikunjungi untuk akses cepat.
 	
 ## Keuntungan / Kerugian
@@ -168,7 +163,7 @@ int deletion(struct Trie **curr, char* str)
 }
 ```
 ## Sumber
-https://www.javatpoint.com/trie-data-structure
-https://en.m.wikipedia.org/wiki/Trie
-https://www.geeksforgeeks.org/trie-insert-and-search/
-https://www.techiedelight.com/cpp-implementation-trie-data-structure/
+https://www.javatpoint.com/trie-data-structure  
+https://en.m.wikipedia.org/wiki/Trie  
+https://www.geeksforgeeks.org/trie-insert-and-search/  
+https://www.techiedelight.com/cpp-implementation-trie-data-structure/  
