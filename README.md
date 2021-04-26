@@ -19,6 +19,7 @@ Berikut representasi lainnya:
 
 ![BUKTI](https://github.com/Doanda37Rahma/struktur-data-h-asistensi-3-2021/blob/main/img/trie2.png)
 ![BUKTI](https://github.com/Doanda37Rahma/struktur-data-h-asistensi-3-2021/blob/main/img/trie3.png)
+![BUKTI](https://github.com/Doanda37Rahma/struktur-data-h-asistensi-3-2021/blob/main/img/trie4.png)
 
 ## Aplikasi Trie:
 1. Spell Checker
@@ -166,3 +167,8 @@ int deletion(struct Trie **curr, char* str)
     return 0;
 }
 ```
+## Sumber
+https://www.javatpoint.com/trie-data-structure
+https://en.m.wikipedia.org/wiki/Trie
+https://www.geeksforgeeks.org/trie-insert-and-search/
+https://www.techiedelight.com/cpp-implementation-trie-data-structure/
